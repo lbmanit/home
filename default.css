@@ -1,0 +1,21 @@
+/* aek  */
+#navbar
+{
+  color: #000000;
+  background: #C3DCFC;
+  font-family: sans-serif;
+  text-align: center;
+  }
+body
+{
+    color: #ffffff;
+    /* background: #003333; */
+    background: #6CA9F8;
+    font-family: serif;
+    font-size: 14pt;
+}
+
+  A		    { text-decoration: none; }
+  A:link	{ color: #9999ff; }
+  A:visited	{ color: #0511f5; }
+  A:active	{ color: #ff9999; }
